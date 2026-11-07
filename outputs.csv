@@ -1,0 +1,3 @@
+model,prompt,response,seconds
+llama3.2:1b,Explain what a hash table is in two sentences.,"A hash table, also known as a hash map, is a data structure that stores key-value pairs in an array using a hash function to map keys to specific indices, allowing for efficient lookup, insertion, and deletion of elements. By storing key-value pairs in a hash table, it enables fast retrieval and manipulation of data, making it a widely used data structure in computer science and programming.",3.84
+qwen2.5:0.5b,Explain what a hash table is in two sentences.,"A hash table is a data structure that uses a hash function to store and search for elements, allowing for efficient retrieval of elements given a key.",1.42
